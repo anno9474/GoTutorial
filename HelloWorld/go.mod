@@ -1,6 +1,6 @@
-module GoTutorial
+module github.com/Anno9474/GoTutorial/HelloWorld
 
-go 1.22
+go 1.22.3
 
 require rsc.io/quote v1.5.2
 
